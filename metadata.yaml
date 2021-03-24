@@ -1,0 +1,23 @@
+_repo: De-Danske-paa-Schelden-1809-1813_64897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lütken, Otto George
+    alias: Lutken, Otto George
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '52926'
+    url: http://www.gutenberg.org/2009/agents/52926
+description: ''
+gutenberg_issued: '2021-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64897'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De Danske paa Schelden (1809-1813)
+url: http://www.gutenberg.org/ebooks/64897
